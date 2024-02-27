@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Mentorship
 - 📫 How to reach me Email:subhojitG710@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am from Bachelor Of Arts 
+- ⚡ Fun fact: I am from Bachelor Of Arts but curious about technologies.
 
 <!---
 Subhojit45/Subhojit45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
